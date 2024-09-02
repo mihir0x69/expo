@@ -20,6 +20,7 @@
 - Added `useTransportationNext` option for `DevToolsPluginClient` to support binary payload. ([#30935](https://github.com/expo/expo/pull/30935) by [@kudo](https://github.com/kudo))
 - Added `autoSize` prop support to DOM components. ([#31103](https://github.com/expo/expo/pull/31103) by [@kudo](https://github.com/kudo))
 - Added local `file://` support to the Fetch API. ([#31551](https://github.com/expo/expo/pull/31551) by [@kudo](https://github.com/kudo))
+- Added `useExpoDOMWebView` dom prop for `@expo/dom-webview` DOM components integration. ([#31295](https://github.com/expo/expo/pull/31295) by [@kudo](https://github.com/kudo))
 
 ### 🐛 Bug fixes
 
